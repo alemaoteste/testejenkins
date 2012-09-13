@@ -7,4 +7,6 @@
 
 echo "teste de mudança";
 
+// teste de comentário
+
 ?>
